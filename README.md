@@ -112,14 +112,6 @@ The Power BI dashboard presents key metrics and customer shopping insights throu
 - Subscriber vs. non-subscriber spending
 - Shipping method comparison
 
-### Dashboard Preview
-
-Add a screenshot of your completed Power BI dashboard here:
-
-```markdown
-![Customer Shopping Behavior Dashboard](dashboard_screenshot.png)
-```
-
 ## ⚙️ How to Run the Project
 
 ### 1. Clone the Repository
